@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>1581</integer>
-	<key>capHeight</key>
-	<integer>1530</integer>
-	<key>copyright</key>
-	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
-	<key>descender</key>
-	<integer>-440</integer>
+    <dict>
 	<key>familyName</key>
 	<string>Norican</string>
+	<key>styleName</key>
+	<string>Normal</string>
+	<key>copyright</key>
+	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>trademark</key>
+	<string>Norican is a trademark of vernon adams.</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>xHeight</key>
+	<integer>236</integer>
+	<key>capHeight</key>
+	<integer>1518</integer>
+	<key>ascender</key>
+	<integer>1581</integer>
+	<key>descender</key>
+	<integer>-440</integer>
 	<key>italicAngle</key>
-	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Norican</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>1023</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-386</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Norican</string>
-	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2011 by . All rights reserved.</string>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/00/26 11:09:03</string>
 	<key>openTypeNameDesigner</key>
 	<string>vernon adams</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>newtypography.co.uk</string>
-	<key>openTypeNameLicenseURL</key>
-	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Norican</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameVersion</key>
+	<string>1.002</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Norican: 2011</string>
-	<key>openTypeNameVersion</key>
-	<string>Version 1</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
-	</array>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2011 by . All rights reserved.</string>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>Norican</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -68,28 +55,35 @@
 		<integer>0</integer>
 		<integer>4</integer>
 	</array>
-	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>512</integer>
-	<key>openTypeOS2StrikeoutSize</key>
-	<integer>102</integer>
-	<key>openTypeOS2SubscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SubscriptXSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>154</integer>
-	<key>openTypeOS2SubscriptYSize</key>
-	<integer>1229</integer>
-	<key>openTypeOS2SuperscriptXOffset</key>
-	<integer>0</integer>
-	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1331</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>717</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
-	<integer>1229</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>1</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>newt</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
 	<key>openTypeOS2Type</key>
 	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2095</integer>
@@ -97,24 +91,48 @@
 	<integer>-791</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
-	<key>openTypeOS2UnicodeRanges</key>
-	<array>
-		<integer>0</integer>
-	</array>
-	<key>openTypeOS2VendorID</key>
-	<string>newt</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>2095</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>-791</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.035357100000000002</real>
-	<key>postscriptBlueShift</key>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1229</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
 	<integer>0</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>154</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1229</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>717</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>102</integer>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>512</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Norican</string>
+	<key>postscriptFullName</key>
+	<string>Norican</string>
+	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-205</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 		<integer>-33</integer>
@@ -124,64 +142,18 @@
 		<integer>1540</integer>
 		<integer>1587</integer>
 	</array>
-	<key>postscriptDefaultCharacter</key>
-	<string>space</string>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
-	<array>
-	</array>
-	<key>postscriptFontName</key>
-	<string>Norican</string>
-	<key>postscriptForceBold</key>
-	<false/>
-	<key>postscriptFullName</key>
-	<string>Norican</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-436</integer>
 		<integer>-379</integer>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-	</array>
-	<key>postscriptUnderlinePosition</key>
-	<integer>-205</integer>
-	<key>postscriptUnderlineThickness</key>
-	<integer>102</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
-	<key>postscriptWindowsCharacterSet</key>
+	<key>postscriptBlueFuzz</key>
 	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Norican</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>Regular</string>
-	<key>trademark</key>
-	<string>Norican is a trademark of vernon adams.</string>
-	<key>unitsPerEm</key>
-	<integer>2048</integer>
-	<key>versionMajor</key>
-	<integer>1</integer>
-	<key>versionMinor</key>
+	<key>postscriptBlueShift</key>
 	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>840</integer>
-	<key>year</key>
-	<integer>2011</integer>
-</dict>
+	<key>postscriptBlueScale</key>
+	<real>0.035357100000000002</real>
+	<key>macintoshFONDName</key>
+	<string>Norican</string>
+    </dict>
 </plist>
